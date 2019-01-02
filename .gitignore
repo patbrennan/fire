@@ -39,4 +39,4 @@ testem.log
 Thumbs.db
 
 # Credentials
-/fire/src/environments
+/src/environments
