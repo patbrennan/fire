@@ -39,4 +39,4 @@ testem.log
 Thumbs.db
 
 # Evnironment Credentials
-src/environments/**
+/src/environments/
