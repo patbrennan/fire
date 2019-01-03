@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  fbAPIKey: 'updated',
-  fbSecretKey: 'updated',
-  superSecret: 'updated',
+  fbAPIKey: '4',
+  fbSecretKey: '4',
+  superSecret: '4',
 };
