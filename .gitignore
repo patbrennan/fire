@@ -40,3 +40,9 @@ Thumbs.db
 
 # Evnironment Credentials
 /src/environments/
+
+# firebase
+/public
+
+# functions dependencies
+/functions/node_modules/
